@@ -1,0 +1,5 @@
+flask
+requests
+zipcodes
+python-dotenv
+flask_smorest
